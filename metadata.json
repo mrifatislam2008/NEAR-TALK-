@@ -1,0 +1,6 @@
+{
+  "name": "NEAR TALK",
+  "description": "Offline Bluetooth peer-to-peer text messaging and two-way voice calling without internet or central servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
